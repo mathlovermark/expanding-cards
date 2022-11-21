@@ -1,4 +1,4 @@
-# expanding-cards
+# Expanding Cards
 Create a basic expanding cards features using HTML, CSS and JS
 
 No frameworks in particular.
